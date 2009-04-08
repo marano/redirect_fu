@@ -18,7 +18,7 @@ def send_to_payment
   redirect_from_post 'https://visanet.com/component', visanet_sale.send_to_payment_params
 end
 
-This code will build a redirect page with a form that is submited while rendered.
+This code will build a redirect page with a form that is submited after rendered.
 
 <form action='' method='post'>
   <input type='hidden' name='tid' value='78437986523234' />
