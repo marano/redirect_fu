@@ -20,7 +20,7 @@ end
 
 This code will build a redirect page with a form that is submited after rendered.
 
-<form action='' method='post'>
+<form action='https://visanet.com/component' method='post'>
   <input type='hidden' name='tid' value='78437986523234' />
   ...
 </form>
