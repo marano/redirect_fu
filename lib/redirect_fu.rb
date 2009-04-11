@@ -1,4 +1,4 @@
-module RedirectFoo
+module RedirectFu
 
   def redirect_from_post(to = '', params = {})
     @parameters = params

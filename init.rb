@@ -1,5 +1,5 @@
-require 'redirect_foo'
+require 'redirect_fu'
 
 class ActionController::Base
-  include RedirectFoo
+  include RedirectFu
 end
